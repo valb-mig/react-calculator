@@ -4,10 +4,4 @@
 
 ## 🧠 To test
 
-- Clone the repo
-
-- Enter the project
-
-- Run npm install
-
-- And run npm start
+https://react-calculator-sable-alpha.vercel.app/
